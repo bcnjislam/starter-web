@@ -1,7 +1,11 @@
 # Start Web Project
 
-## Section 1
-
-## Section 2
+## Introduction
 
 ## Purpose
+
+## Deployment
+
+## How To Contribute
+
+
