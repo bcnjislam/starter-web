@@ -10,4 +10,8 @@ Sample website with plenty of files for demos
 ### Copyright
 
 ### REBASE
-new feature
+new feature5
+new feature4
+new feature3
+new feature2
+new feature1
